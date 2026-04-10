@@ -1,3 +1,5 @@
+![DiaIQ Humanizer](./banner.png)
+
 # Humanize AI Text — Claude Code Skill
 
 Free Claude Code skill that humanizes AI-generated text so it passes GPTZero, ZeroGPT, Turnitin, Copyleaks, and other AI detectors.
