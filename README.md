@@ -1,4 +1,4 @@
-![DiaIQ Humanizer](./banner.png)
+![DiaIQ Humanizer](./banner-humanizer.png)
 
 # Humanize AI Text — Claude Code Skill
 
